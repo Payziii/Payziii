@@ -9,3 +9,4 @@
 ## Планы
 - Flag Defender (VK/RuStore/Google Play)
 - Lunar Adventures (VK Play/Steam)
+- Foggy
