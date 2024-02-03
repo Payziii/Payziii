@@ -9,10 +9,12 @@
 <h3 align="center">Мои активные проекты</h3>
 <ul>
     <li>PayziBot: <a href="https://discord.com/api/oauth2/authorize?client_id=576442351426207744&permissions=1411299798102&scope=bot" target="_blank">Добавить</a></li>
+    <li>FiftyAPI: В разработке</li>
 </ul>
 
 <h3 align="center">Планы</h3>
 <ul>
+    <li>Гессер (RuStore/Google Play) - игра, использующая возможности FiftyAPI</li>
     <li>Flag Defender (VK/RuStore/Google Play) - игра, в которой надо захватывать флаги на карте, сражаясь с другими игроками.</li>
     <li>Lunar Adventures (VK Play/Steam) - игра про путешествия на луне в 2042 году.</li>
     <li>Foggy - игра про туманный город, полный загадок и тайн.</li>
