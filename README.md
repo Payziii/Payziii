@@ -4,7 +4,7 @@
 </h3>
 
 <h3 align="center">Часто используемые языки</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payziii&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payziii&theme=dark&hide_border=true&layout=compact"/>
 
 <h3 align="center">Мои активные проекты</h3>
 <ul>
