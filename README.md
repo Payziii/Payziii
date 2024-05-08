@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Я Пэйз 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
-<h3 align="center"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,mongodb,vue,vscode,windows" />
+<h3 align="center"><img src="https://skillicons.dev/icons?i=discordjs,nodejs,typescript,mongodb,vue,vscode,windows" />
 </h3>
 
 <h3 align="center">Часто используемые языки</h3>
