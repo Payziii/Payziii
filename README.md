@@ -8,9 +8,7 @@
 
 <h3 align="center">Мои проекты</h3>
 <ul>
-    <li>PayziBot: <a href="https://discord.com/api/oauth2/authorize?client_id=576442351426207744&permissions=1411299798102&scope=bot" target="_blank">Добавить</a></li>
-     <li>Угадай город: <a href="https://apps.rustore.ru/app/com.Payziii.GuessCity" target="_blank">RuStore</a></li>
-    <li>FiftyAPI: <a href="https://docs.fifty.su" target="_blank">Документация</a></li>
+    <li>PayziBot: <a href="https://discord.com/api/oauth2/authorize?client_id=576442351426207744&permissions=1411299798102&scope=bot" target="_blank">Добавить</a>, <a href="https://payzibot.ru" target="_blank">Сайт</a></li>
     <li>WeatherBot: <a href="https://github.com/Payziii/WeatherBot" target="_blank">Исходный код</a></li>
     <li>CheckSpellingBot: <a href="https://github.com/Payziii/CheckSpellingBot" target="_blank">Исходный код</a></li>
 </ul>
